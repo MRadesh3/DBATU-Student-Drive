@@ -1,0 +1,25 @@
+.background{
+width: 100%;
+min-height: 100vh;
+padding: 5%;
+background-image: linear-gradient(rgb(255,0,0,0.72),rgb(13,110,253,0.48)), url(images/backg.jpg);
+background-position: center;
+background-size: cover;
+}
+
+.last{
+  margin-left:95px;
+}
+.magic{
+  margin: 10px 0 0 175px;
+}
+
+@media screen and (max-width:1022px) {
+
+  .last{
+    margin-left: 50px;
+  }
+  .magic{
+      margin: 10px 0 0 135px;
+  }
+}
