@@ -156,7 +156,9 @@ p {
   .for {
     font-size: 50px;
   }
-
+  .so {
+    height: 75px;
+  }
   /* FOOT */
   .fooot {
     width: 380px;
