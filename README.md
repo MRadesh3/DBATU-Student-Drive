@@ -1,6 +1,6 @@
 # DBATU-Student-Drive
 
-Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+Welcome to DBATU - Student Drive, where we provide data to students like projects PPTs, word files and many more.
 
 ## Live Demonstration
 
@@ -22,7 +22,7 @@ Hello visitors , I'm a skilled web developer passionate about crafting user-cent
 
 - **[React - Admin Dashboard ](https://reactadmindashboard-seven.vercel.app/)** : ( Role : Developer ) A React admin dashboard is a dynamic web application interface designed for efficiently managing and visualizing data within an organization.
 
-- **[DBATU - Student Drive ](https://dbatustudentdrive.vercel.app/)** : ( Role : Developer ) Welcome to DBATU - Student Drive, where we provide the data to students like projects PPTs, word files and many more.
+- **[Nike Shoes ](https://nikeshoes-three.vercel.app/)** : ( Role : Developer ) Discover stylish Nike Arrivals, quality comfort and innovation for your active life.
 
 Feel free to explore my [GitHub profile](https://github.com/MRadesh3) for more examples of my work.
 
